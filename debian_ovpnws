@@ -1,0 +1,9 @@
+#!/bin/bash
+#Script Variables
+HOST='65.109.26.202';
+USER='rktunnelvip_rkown';
+PASS='rktunnelvip_rkown';
+DBNAME='rktunnelvip_rkown';
+PORT_TCP='1194';
+PORT_UDP='53';
+404: Not Found
